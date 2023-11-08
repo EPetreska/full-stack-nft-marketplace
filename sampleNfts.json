@@ -1,0 +1,116 @@
+{
+    "sampleNfts": [
+            {
+                "id": "item-1",
+                "image": "https://ep28042023.infura-ipfs.io/ipfs/QmVMyHCm4NCv31Vnm3m3gSBE38nXMSngAKb7qt9D1XUA4C",
+                "name": "Paths of Empires",
+                "samplestudents": 
+                    {"id": "creator-1",
+                    "creatorImage": "https://ep28042023.infura-ipfs.io/ipfs/QmaPiP6WdFWVcbZH1An4NSxzZptbE4njnwAGv2fYdLLBtK",
+                    "creatorName": "Alejandro Contreras",  
+                    "creatorCV": "I am a dedicated historian with a Ph.D. in History. My academic journey has been an incredible expedition through time, uncovering the narratives that have shaped societies. With a Bachelor's degree in History from University of San Diego, followed by a Master's degree from University Austin Texas, I immersed myself in diverse cultures and eras, refining my analytical skills and honing a passion for research. My doctoral studies at the University of Chicago focused on the socio-political dynamics of the Renaissance period, allowing me to contribute a new perspective to the field. With my academic background and a burning curiosity, I am excited to embark on new ventures as a historian, weaving together stories from the past to illuminate our present and future."},
+                "description": "Ph.D. Thesis: 'Paths of Empires: Cross-Cultural Encounters and the Shaping of Identity in the Early Modern World'.",
+                "longdescription" : "The Ph.D. thesis 'Paths of Empires' presents an extensive and profound exploration of cross-cultural encounters during the early modern period, illuminating their transformative impact on the formation of individual and collective identities. This scholarly work serves as a valuable resource for historians, researchers, and enthusiasts, enriching the collective understanding of the interwoven tapestry of human history and its enduring impact on shaping identities in the modern world.",
+                "priceplusfee": "0.061"
+            },
+    
+            {
+                "id": "item-2",
+                "image": "https://ep28042023.infura-ipfs.io/ipfs/QmeXhGG3fTqZRzTHhMcRYhF1hBJGw82q5gWQWhfhhhR1Aw",
+                "name": "EnerFlex Pro",
+                "samplestudents": 
+                    {"id": "creator-2",
+                    "creatorImage": "https://ep28042023.infura-ipfs.io/ipfs/QmNtxgJkmdX8dyLKsJ4iZyRKa3rhCHw8HsdmU5sUViacmP",
+                    "creatorName": "Xia Bai",  
+                    "creatorCV": "I am a driven engineering student currently pursuing a Bachelor's degree in Mechanical Engineering. Throughout my academic journey at University of Pennsylvania I have been captivated by the intricate world of engineering, combining my love for problem-solving and innovation. From foundational courses in calculus and physics to advanced studies in thermodynamics and material science, my education has equipped me with the skills to tackle real-world challenges. With a strong desire to bridge theory and practical applications, I eagerly look forward to contributing my knowledge to the field and forging a path towards impactful engineering solutions."},
+                "description": "Revolutionary EnerFlex Pro: A Cutting-Edge Engineering Prototype for energy-efficient systems.",
+                "longdescription": "To demonstrate its capabilities, the prototype is integrated into a real-world application, such as a heating, ventilation, and air conditioning (HVAC) system or a fluid pumping unit. As the EnerFlex Pro operates, it adeptly harnesses the otherwise wasted energy and feeds it back into the system, resulting in a substantial reduction in energy consumption and a notable increase in cost savings. Developed as part of my bachelor's degree, this prototype redefines the concept of sustainable energy utilization, offering a glimpse into a greener, more environmentally conscious future.",
+                "priceplusfee": "0.31"
+            },
+    
+            {
+                "id": "item-3",
+                "image": "https://ep28042023.infura-ipfs.io/ipfs/QmSrs9BkiHXxeRFGso6KojAPxGVBhFTtWtGhenqvawmw4D",
+                "name": "Ethereal Resonance",
+                "samplestudents":
+                    {"id": "creator-3",
+                    "creatorImage": "https://ep28042023.infura-ipfs.io/ipfs/QmcwiomRH8eFvVqFwnvu8vgmpwVtvRwYZGkgroC3sqWDwu",
+                    "creatorName": "Leslie Grant",  
+                    "creatorCV": "I'm a passionate sculptor who has recently completed my Master's degree in Fine Arts with a specialization in Sculpture. My educational journey at the Rome University of FIne Arts has been a transformative experience, allowing me to delve deep into the realm of three-dimensional art. From my Bachelor's degree in Visual Arts from Rhode Island University to my Master's studies, I've honed my craft and explored various mediums, from clay to metal. Through intensive workshops and critical discussions, I've developed a unique artistic voice that combines traditional techniques with contemporary concepts. As a recent graduate, I'm excited to continue shaping narratives through my sculptures and contributing to the ever-evolving world of fine arts."},
+                "description": "Ethereal Resonance is an abstract sculpture that captivates viewers with its surreal, otherworldly presence.",
+                "longdescription": "This sculpture was created as a final project in my Master's studies. It is a seamless blend of organic curves, arranged in a seemingly chaotic yet harmonious manner. The sculpture's mysterious presence challenges the boundaries of our perception, encouraging viewers to immerse themselves in the realm of imagination and interpretation.",
+                "priceplusfee": "0.025"
+            },
+    
+            {
+                "id": "item-4",
+                "image": "https://ep28042023.infura-ipfs.io/ipfs/QmPupc4EVHsq31gXznEqm1x1rHDZa2mVvPpiR52BWnEuTj",
+                "name": "Unraveling the Microbial Symphony",
+                "samplestudents":
+                    {"id": "creator-4",
+                    "creatorImage": "https://ep28042023.infura-ipfs.io/ipfs/Qmd8UQK61Cu64dEJdttXAYjN1FqTaTZk9gWLNijEavUR3C",
+                    "creatorName": "Lia Gurnani",  
+                    "creatorCV": "I am a dedicated Ph.D. student in biology, driven by an insatiable curiosity for the natural world. My educational journey began with a Bachelor's degree in Biological Sciences from Dartmouth College, where I honed my foundational knowledge and research skills and where I pursued a Master's degree in Molecular Biology, focusing on genetic mechanisms in cellular processes. Now, as a doctoral candidate at Northwestern University, I am passionately investigating the intricate interplay of genes and the environment in shaping complex biological systems. My academic pursuits have been complemented by hands-on laboratory experience and collaborations with leading researchers in the field, allowing me to publish research papers in renowned science journals."},
+                "description": "Research paper: 'Unraveling the Microbial Symphony: Interactions in the Human Gut Microbiome'.",
+                "longdescription": "In this biology paper published in 'BioSphere: Explorations in Life Sciences', through a combination of cutting-edge metagenomic sequencing, computational modeling, and experimental validation, the authors provide new insights into the ecological principles governing the complex microbial community of the human gut microbiom. The paper not only presents novel findings but also contributes to our broader understanding of the intricate world of microbiology and its relevance to human biology.",
+                "priceplusfee": "0.031"
+            },
+    
+            {
+                "id": "item-5",
+                "image": "https://ep28042023.infura-ipfs.io/ipfs/QmRDu5CL2dwpxT3WrgPLh8AuN9tfCZ9wXovD26nxwTWToB",
+                "name": "Luminary Achievement Award",
+                "samplestudents":
+                    {"id": "creator-5",
+                    "creatorImage": "https://ep28042023.infura-ipfs.io/ipfs/QmXJWuEdCUpHoDLgEBSP7qC3CVeqEPmLn6j3dzbFJt4Q6Y",
+                    "creatorName": "Lowell Watson",  
+                    "creatorCV": "My academic journey commenced with a rigorous foundation in economics at Brown University, where I acquired a deep understanding of economic principles, quantitative analysis, and policy frameworks. Throughout my undergraduate studies, I have actively engaged in coursework that delves into micro and macroeconomic theory, econometrics, and behavioral economics, honing my analytical skills and critical thinking abilities. Eager to apply my knowledge to real-world challenges, I have also participated in internships and research projects that have allowed me to gain valuable insights into economic phenomena and their implications. As I progress in my educational journey, I am fueled by a commitment to contributing to the understanding of complex economic issues and finding innovative solutions that can positively impact society."},
+                "description": "The Luminary Achievement Award is an emblem of brilliance and innovation for bachelor students in economics.",
+                "longdescription": "Lowell Watson's outstanding achievement in the field of economics lies in his research on the economic implications of renewable energy policies. His work, titled 'Economic Transformations: Analyzing the Impact of Renewable Energy Policies', has garnered widespread recognition and is considered a landmark contribution to the field. He has presented his research at numerous conferences, published articles in reputable economics journals, and actively engaged with experts and stakeholders in the renewable energy sector.",
+                "priceplusfee": "0.055"
+            },
+    
+            {
+                "id": "item-6",
+                "image": "https://ep28042023.infura-ipfs.io/ipfs/QmQY5AxHkrDxVZG8US2f9xe77qxmMXyrsLP9T3ixg9WPPX",
+                "name": "DataXcel",
+                "samplestudents":
+                    {"id": "creator-6",
+                    "creatorImage": "https://ep28042023.infura-ipfs.io/ipfs/Qma4wQFiaUaRY2KNReLgQX9yxa22CVtGxz2YLZXcfDG61V",
+                    "creatorName": "Alyssa Jones",  
+                    "creatorCV": "My educational voyage began with a Bachelor's degree in Computer Science at Vanderbilt University, where I laid the foundation for my programming skills and algorithmic thinking. Throughout my undergraduate studies, I delved into various areas of computer science, from software engineering to artificial intelligence, cultivating a diverse skill set and a deep appreciation for the field's versatility. Now, as a graduate student at Rice University, I am eager to delve deeper into cutting-edge research and specialization, with a focus on machine learning and data science. My academic pursuits have been complemented by internships, personal projects, and collaborations with tech industry professionals, providing me with invaluable practical experience."},
+                "description": "Automated Data Analysis Tool: Streamlining Insights with DataXcel.",
+                "longdescription": "At its core, DataXcel boasts an intuitive interface that allows users to import, organize, and clean vast datasets seamlessly. DataXcel is a powerful and user-friendly computer code designed to streamline data analysis and provide valuable insights effortlessly. This versatile tool is crafted to cater to researchers, data scientists, and analysts seeking an efficient and reliable solution for handling complex datasets with ease. It was developed during my second year of my Master's studies in computer science.",
+                "priceplusfee": "0.025"
+            },
+    
+            {
+                "id": "item-7",
+                "image": "https://ep28042023.infura-ipfs.io/ipfs/QmYzrQoFnmPyZqR1Bsj6RZGpz9WiZwBX4uKPjFGLWF1HDf",
+                "name": "Innovations in Cardiovascular Imaging",
+                "samplestudents":
+                    {"id": "creator-7",
+                    "creatorImage": "https://ep28042023.infura-ipfs.io/ipfs/QmdKAbqwVwFcst8r6Rrp1gj5FnHTubbRfyMGr4urKXPwfG",
+                    "creatorName": "Holly Floyd",  
+                    "creatorCV": "I am a passionate medical student on a journey to make a difference in the world of healthcare. My fascination with the intricate workings of the human body led me to pursue a Bachelor of Science in Medicine at the prestigious Medicine University in Cityville. I am currently in my final year and eagerly looking forward to graduating in May 2024. I have also delved into the world of medical research as a research assistant at the Institute of Medical Research. Collaborating with experienced researchers, I have contributed to data analysis and research publications, sharpening my analytical skills and expanding my understanding of the field."
+                    },
+                "description": "Conference poster: Advancing Cardiac Care: Innovations in Cardiovascular Imaging.",
+                "longdescription": "The poster was presented at the '2022 MediTech Innovate: Advancing Healthcare through Science and Technology' conference in Chicago. It discusses emerging technologies, including the use of artificial intelligence for precision medicine and personalized drug delivery, as well as the integration of immunotherapy with targeted drug delivery systems. It is based on a study performed at the San Jose's Medical Center.",
+                "priceplusfee": "0.012"
+            },
+    
+            {
+                "id": "item-8",
+                "image": "https://ep28042023.infura-ipfs.io/ipfs/QmTcDUYmcAhzHBQE1aKmCipzRhYBoDdjAo6MfBEyGZAwdZ",
+                "name": "Reflections of Eternity",
+                "samplestudents":
+                    {"id": "creator-8",
+                    "creatorImage": "https://ep28042023.infura-ipfs.io/ipfs/QmNvwnS912zjh3LkNR4nnyJZVeFvLzeDdk5MV9yCAc25Nd",
+                    "creatorName": "Daniel Campos",  
+                    "creatorCV": "As a recent Master's graduate in Fine Arts with a specialization in painting, my artistic journey has been a deeply transformative one. My academic foundation was laid during my undergraduate years, where I earned a Bachelor's degree in Fine Arts, from Hunter College. However, it was during my Master's program at the University of Washington that I truly honed my skills, delving into the intricate nuances of painting. My thesis project, which explored the intersection of abstraction and realism, served as a culmination of my artistic growth. Now, as a Master's graduate, I am poised to embark on a journey as a professional artist, driven by a burning passion to continue pushing the boundaries of my creativity."},
+                "description": "Gallery exhibition: 'Reflections of Eternity: A Journey through Time and Space'.",
+                "longdescription": "This exhibition was the graduating project for my Master's degree and it was presented at the ArtScape Gallery in San Francisco in 2016. It unveils a curated collection of avant-garde artworks that transcend conventional boundaries, offering visitors a profound experience of contemplation, wonder, and introspection. The exhibition features a diverse array of artistic mediums, ranging from awe-inspiring paintings that meld vivid colors with intricate brushstrokes, to thought-provoking sculptures that challenge perception and gravity.",
+                "priceplusfee": "0.061"
+            }    
+        ]
+    }

@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box {
+  width: 1000px;
+  position: absolute;
+  left: 100px;
+  background-color: white;
+  color: black; 
+  padding: 40px;
+  border-radius: 8px; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  font-size: 18px; 
+  text-align: justify;
+}
+
+.container {
+    width: 1000px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 50px;
+    display: flex;
+    align-items: top;
+    gap: 50px;
+    padding: 20px;
+  }
+
+  .image-gallery {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .image-wrapper {
+    text-align: center;
+  }
+  
+  p {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
