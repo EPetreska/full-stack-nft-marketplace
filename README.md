@@ -90,4 +90,4 @@ or
 
 ```
 npx hardhat run scripts/deploy.js --network mainnet
-```# full-stack-nft-marketplace
+```
