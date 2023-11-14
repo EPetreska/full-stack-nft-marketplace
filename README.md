@@ -1,4 +1,4 @@
-# A full stack NFT Marketplace on Etherium with Polygon, Solidity, IPFS, Next.js, Hardhat, and Ethers.js.
+# A full stack NFT Marketplace on Ethereum with Polygon, Solidity, IPFS, Next.js, Hardhat, and Ethers.js.
 
 Decentralized Arts and Sciences (DAS) is a digital marketplace where academics can promote and sell their accomplishments as NFTs. Users can create a profile including a profile picture and a short bio, and they can mint and list NFTs for sale. Users can also buy and collect NFTs. Buyers pay 1% transaction fee. The marketplace includes sample NFTs for demonstration.
 
@@ -34,23 +34,24 @@ or Yarn
 ```
 yarn
 ```
-4. (This step can be skipped) Test the contracts:
+
+4. Update the code with the steps from Code Configuration.
+
+5. Test the contracts (this step can be skipped):
 
 ```
 npx hardhat test
 ```
-5. Start the local Hardhat node
+6. Start the local Hardhat node
 
 ```
 npx hardhat node
 ```
-6. In a new terminal window deploy the contracts to the local network
+7. In a new terminal window deploy the contracts to the local network
 
 ```
 npx hardhat run scripts/deploy.js --network localhost
 ```
-7. Update the code with the steps from Code Configuration
-
 8. Start the application
 
 ```
