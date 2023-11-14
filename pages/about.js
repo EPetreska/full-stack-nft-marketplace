@@ -9,7 +9,7 @@ export default function About() {
                     </p>
 
                     <p className="mt-6">
-                    DAS is a full stack marketplace on Etherium with Polygon, Solidity, IPFS, Next.js, Hardhat and Ethers.js. 
+                    DAS is a full stack marketplace on Ethereum with Polygon, Solidity, IPFS, Next.js, Hardhat and Ethers.js. 
                     </p>
                 </div>
         </div>
